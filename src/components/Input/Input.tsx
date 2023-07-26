@@ -43,7 +43,7 @@ function Input() {
         value={item}
         onChange={onChangeInput}
         type="text"
-        placeholder="오늘의 To Do를 입력해주세요!"
+        placeholder="오늘의 To Do를 입력해주세요! git check"
       />
     </form>
   );
